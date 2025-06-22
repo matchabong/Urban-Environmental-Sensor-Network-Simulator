@@ -28,7 +28,7 @@ The core idea is to create a simplified, dynamic representation of an urban envi
 
    * Noise Levels: Simulating ambient noise with occasional spikes from "traffic" or "construction."
 
-  Each sensor will generate its own unique stream of data based on its virtual location and environmental factors.
+    Each sensor will generate its own unique stream of data based on its virtual location and environmental factors.
 
 4. Time-Step Simulation: The simulation will advance in discrete time steps, generating new sensor readings for each step.
 
