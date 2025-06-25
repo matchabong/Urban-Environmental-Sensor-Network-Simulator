@@ -1,4 +1,4 @@
-# Urban-Environmental-Sensor-Network-Simulator
+# Urban-Environmental-Sensor-Network-Simulator (In Progress)
 ## Project Overview
 This project aims to simulate a conceptual urban environmental sensor network, demonstrating how real-time data collection from various points within a city can contribute to the development of "digital twin" models for smart city management. By generating synthetic environmental data (e.g., temperature, air quality, noise levels) from a network of virtual sensors, this simulation provides a foundational understanding of data acquisition and monitoring crucial for intelligent urban systems.
 
